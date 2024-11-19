@@ -1,4 +1,4 @@
-export default function tudentTable(props){
+export default function studentTable(props){
     return(
         <div>
 
